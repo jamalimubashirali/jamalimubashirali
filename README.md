@@ -1,4 +1,4 @@
-<img src="./imgk.gif">
+<img src="./Github_Background_Gif.gif">
 <h1 align="center">Hi 👋, I'm Mubashir Ali</h1> <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 # 💫 About Me:
