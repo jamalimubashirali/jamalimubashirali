@@ -1,10 +1,16 @@
+<div align="center">
+
 # Hey, I'm Mubashir! 👋
 
-I build AI systems and experiment with language models for underrepresented languages.
+**I build useful AI systems and experiment with language models for underrepresented languages.**
 
-**AI Engineer · LLMs & NLP · Agentic Systems · ML Systems**
+`AI Engineer` · `LLMs & NLP` · `Agentic Systems` · `ML Systems`
 
-[LinkedIn](https://www.linkedin.com/in/mubashiralijamali/) · [Hugging Face](https://huggingface.co/jamalimubashirali) · [Research paper](https://doi.org/10.51846/vol9iss1pp6-18)
+<a href="https://www.linkedin.com/in/mubashiralijamali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://huggingface.co/jamalimubashirali"><img src="https://img.shields.io/badge/🤗_Hugging_Face-Models_&_Datasets-FFD21E?style=flat-square" alt="Hugging Face"></a>
+<a href="https://doi.org/10.51846/vol9iss1pp6-18"><img src="https://img.shields.io/badge/Research-Read_my_paper-6f42c1?style=flat-square&logo=googlescholar&logoColor=white" alt="Research publication"></a>
+
+</div>
 
 ---
 
